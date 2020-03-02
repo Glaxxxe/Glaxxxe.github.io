@@ -25,7 +25,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+当知道[搜狗] [2]可以搜索微信和知乎时，我慢慢爱上了[搜狗] [2]。学术搜索还是用[Google] [1]靠谱。也会用[Bing] [4 ]和[百度] [3]，毕竟各有所长。
 
+[1]：https：//www.google.com/“ Google”
+[2]：https：//www.sogou.com/“搜狗”
+[3]：https：//www.baidu.com/“百度搜索”
+[4]：https：//cn.bing.com/“必应搜索”
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
